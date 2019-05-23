@@ -1,0 +1,159 @@
+
+C2: ethane only
+C3: propane only
+C4: 2 isomers: n-butane and isobutane
+C5: 3 isomers: pentane, isopentane, and neopentane
+C6: 5 isomers: hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane, and 2,3-dimethylbutane
+C12: 355 isomers
+C32: 27,711,253,769 isomers
+C60: 22,158,734,535,770,411,074,184 isomers, many of which are not stable.
+Branched alkanes can be chiral. For example, 3-methylhexane and its higher homologues are chiral due to their stereogenic center at carbon atom number 3. In addition to the alkane isomers, the chain of carbon atoms may form one or more loops. Such compounds are called cycloalkanes. Stereoisomers and cyclic compounds are excluded when calculating the number of isomers above.
+
+Nomenclature
+Main article: IUPAC nomenclature of organic chemistry
+The IUPAC nomenclature (systematic way of naming compounds) for alkanes is based on identifying hydrocarbon chains. Unbranched, saturated hydrocarbon chains are named systematically with a Greek numerical prefix denoting the number of carbons and the suffix "-ane".[5]
+
+In 1866, August Wilhelm von Hofmann suggested systematizing nomenclature by using the whole sequence of vowels a, e, i, o and u to create suffixes -ane, -ene, -ine (or -yne), -one, -une, for the hydrocarbons CnH2n+2, CnH2n, CnH2n?2, CnH2n?4, CnH2n?6.[6] Now, the first three name hydrocarbons with single, double and triple bonds;[7] "-one" represents a ketone; "-ol" represents an alcohol or OH group; "-oxy-" means an ether and refers to oxygen between two carbons, so that methoxymethane is the IUPAC name for dimethyl ether.
+
+It is difficult or impossible to find compounds with more than one IUPAC name. This is because shorter chains attached to longer chains are prefixes and the convention includes brackets. Numbers in the name, referring to which carbon a group is attached to, should be as low as possible so that 1- is implied and usually omitted from names of organic compounds with only one side-group. Symmetric compounds will have two ways of arriving at the same name.
+
+Linear alkanes
+Straight-chain alkanes are sometimes indicated by the prefix "n-" (for normal) where a non-linear isomer exists. Although this is not strictly necessary, the usage is still common in cases where there is an important difference in properties between the straight-chain and branched-chain isomers, e.g., n-hexane or 2- or 3-methylpentane. Alternative names for this group are: linear paraffins or n-paraffins.
+
+The members of the series (in terms of number of carbon atoms) are named as follows:
+
+methane
+CH4 – one carbon and 4 hydrogen
+ethane 
+C2H6 – two carbon and 6 hydrogen
+propane
+C3H8 – three carbon and 8 hydrogen
+butane 
+C4H10 – four carbon and 10 hydrogen
+pentane
+C5H12 – five carbon and 12 hydrogen
+hexane 
+C6H14 – six carbon and 14 hydrogen
+The first four names were derived from methanol, ether, propionic acid and butyric acid, respectively (hexadecane is also sometimes referred to as cetane). Alkanes with five or more carbon atoms are named by adding the suffix -ane to the appropriate numerical multiplier prefix[8] with elision of any terminal vowel (-a or -o) from the basic numerical term. Hence, pentane, C5H12; hexane, C6H14; heptane, C7H16; octane, C8H18; etc. The prefix is generally Greek, however alkanes with a carbon atom count ending in nine, for example nonane, use the Latin prefix non-. For a more complete list, see List of alkanes.
+
+Branched alkanes
+
+Ball-and-stick model of isopentane (common name) or 2-methylbutane (IUPAC systematic name)
+Simple branched alkanes often have a common name using a prefix to distinguish them from linear alkanes, for example n-pentane, isopentane, and neopentane.
+
+IUPAC naming conventions can be used to produce a systematic name.
+
+The key steps in the naming of more complicated branched alkanes are as follows:[9]
+
+
+/
+3
+) ? 109.47° between them.
+
+Bond lengths and bond angles
+An alkane molecule has only C–H and C–C single bonds. The former result from the overlap of an sp3 orbital of carbon with the 1s orbital of a hydrogen; the latter by the overlap of two sp3 orbitals on different carbon atoms. The bond lengths amount to 1.09 ? 10?10 m for a C–H bond and 1.54 ? 10?10 m for a C–C bond.
+
+
+The tetrahedral structure of methane.
+The spatial arrangement of the bonds is similar to that of the four sp3 orbitals—they are tetrahedrally arranged, with an angle of 109.47° between them. Structural formulae that represent the bonds as being at right angles to one another, while both common and useful, do not correspond with the reality.
+
+Conformation
+Main article: Alkane stereochemistry
+The structural formula and the bond angles are not usually sufficient to completely describe the geometry of a molecule. There is a further degree of freedom for each carbon–carbon bond: the torsion angle between the atoms or groups bound to the atoms at each end of the bond. The spatial arrangement described by the torsion angles of the molecule is known as its conformation.
+
+
+Newman projections of the two conformations of ethane: eclipsed on the left, staggered on the right.
+
+
+Spectroscopic properties
+Virtually all organic compounds contain carbon–carbon, and carbon–hydrogen bonds, and so show some of the features of alkanes in their spectra. Alkanes are notable for having no other groups, and therefore for the absence of other characteristic spectroscopic features of a different functional group like –OH, –CHO, –COOH etc.
+
+Infrared spectroscopy
+The carbon–hydrogen stretching mode gives a strong absorption between 2850 and 2960 cm?1, while the carbon–carbon stretching mode absorbs between 800 and 1300 cm?1. The carbon–hydrogen bending modes depend on the nature of the group: methyl groups show bands at 1450 cm?1 and 1375 cm?1, while methylene groups show bands at 1465 cm?1 and 1450 cm?1. Carbon chains with more than four carbon atoms show a weak absorption at around 725 cm?1.
+
+NMR spectroscopy
+The proton resonances of alkanes are usually found at ?H = 0.5–1.5. The carbon-13 resonances depend on the number of hydrogen atoms attached to the carbon: ?C = 8–30 (primary, methyl, –CH3), 15–55 (secondary, methylene, –CH2–), 20–60 (tertiary, methyne, C–H) and quaternary. The carbon-13 resonance of quaternary carbon atoms is characteristically weak, due to the lack of nuclear Overhauser effect and the long relaxation time, and can be missed in weak samples, or samples that have not been run for a sufficiently long time.
+
+Mass spectrometry
+Alkanes have a high ionization energy, and the molecular ion is usually weak. The fragmentation pattern can be difficult to interpret, but, in the case of branched chain alkanes, the carbon chain is preferentially cleaved at tertiary or quaternary carbons due to the relative stability of the resulting free radicals. The fragment resulting from the loss of a single methyl group (M ? 15) is often absent, and other fragments are often spaced by intervals of fourteen mass units, corresponding to sequential loss of CH2 groups.
+
+Chemical properties
+Alkanes are only weakly reactive with ionic and other polar substances. The acid dissociation constant (pKa) values of all alkanes are above 60, hence they are practically inert to acids and bases (see: carbon acids). This inertness is the source of the term paraffins (with the meaning here of "lacking affinity"). In crude oil the alkane molecules have remained chemically unchanged for millions of years.
+
+However redox reactions of alkanes, in particular with oxygen and the halogens, are possible as the carbon atoms are in a strongly reduced condition; in the case of methane, the lowest possible oxidation state for carbon (?4) is reached. Reaction with oxygen (if present in sufficient quantity to satisfy the reaction stoichiometry) leads to combustion without any smoke, producing carbon dioxide and water. Free radical halogenation reactions occur with halogens, leading to the production of haloalkanes. In addition, alkanes have been shown to interact with, and bind to, certain transition metal complexes in C–H bond activation.
+
+
+
+C6H12O6 > 3 CH4 + 3 CO2
+These hydrocarbon deposits, collected in porous rocks trapped beneath impermeable cap rocks, comprise commercial oil fields. They have formed over millions of years and once exhausted cannot be readily replaced. The depletion of these hydrocarbons reserves is the basis for what is known as the energy crisis.
+
+Methane is also present in what is called biogas, produced by animals and decaying matter, which is a possible renewable energy source.
+
+Alkanes have a low solubility in water, so the content in the oceans is negligible; however, at high pressures and low temperatures (such as at the bottom of the oceans), methane can co-crystallize with water to form a solid methane clathrate (methane hydrate). Although this cannot be commercially exploited at the present time, the amount of combustible energy of the known methane clathrate fields exceeds the energy content of all the natural gas and oil deposits put together. Methane extracted from methane clathrate is, therefore, a candidate for future fuels.
+
+Biological occurrence
+Acyclic alkanes occur in nature in various ways.
+
+Bacteria and archaea
+
+Methanogenic archaea in the gut of this cow are responsible for some of the methane in Earth's atmosphere.
+Certain types of bacteria can metabolize alkanes: they prefer even-numbered carbon chains as they are easier to degrade than odd-numbered chains.[20]
+
+On the other hand, certain archaea, the methanogens, produce large quantities of methane by the metabolism of carbon dioxide or other oxidized organic compounds. The energy is released by the oxidation of hydrogen:
+
+CO2 + 4 H2 > CH4 + 2 H2O
+Methanogens are also the producers of marsh gas in wetlands, and release about two billion tonnes of methane per year[21]—the atmospheric content of this gas is produced nearly exclusively by them. The methane output of cattle and other herbivores, which can release 30 to 50 gallons per day,[22] and of termites,[23] is also due to methanogens. They also produce this simplest of all alkanes in the intestines of humans. Methanogenic archaea are, hence, at the end of the carbon cycle, with carbon being released back into the atmosphere after having been fixed by photosynthesis. It is probable that our current deposits of natural gas were formed in a similar way.[24]
+
+Fungi and plants
+Alkanes also play a role, if a minor role, in the biology of the three eukaryotic groups of organisms: fungi, plants and animals. Some specialized yeasts, e.g., Candida tropicale, Pichia sp., Rhodotorula sp., can use alkanes as a source of carbon or energy. The fungus Amorphotheca resinae prefers the longer-chain alkanes in aviation fuel, and can cause serious problems for aircraft in tropical regions.[25]
+
+In plants, the solid long-chain alkanes are found in the plant cuticle and epicuticular wax of many species, but are only rarely major constituents.[26] They protect the plant against water loss, prevent the leaching of important minerals by the rain, and protect against bacteria, fungi, and harmful insects. The carbon chains in plant alkanes are usually odd-numbered, between 27 and 33 carbon atoms in length[26] and are made by the plants by decarboxylation of even-numbered fatty acids. The exact composition of the layer of wax is not only species-dependent but changes also with the season and such environmental factors as lighting conditions, temperature or humidity.[26]
+
+More volatile short-chain alkanes are also produced by and found in plant tissues. The Jeffrey pine is noted for producing exceptionally high levels of n-heptane in its resin, for which reason its distillate was designated as the zero point for one octane rating. Floral scents have also long been known to contain volatile alkane components, and n-nonane is a significant component in the scent of some roses.[27] Emission of gaseous and volatile alkanes such as ethane, pentane, and hexane by plants has also been documented at low levels, though they are not generally considered to be a major component of biogenic air pollution.[28]
+
+Edible vegetable oils also typically contain small fractions of biogenic alkanes with a wide spectrum of carbon numbers, mainly 8 to 35, usually peaking in the low to upper 20s, with concentrations up to dozens of milligrams per kilogram (parts per million by weight) and sometimes over a hundred for the total alkane fraction.[29]
+
+Animals
+Alkanes are found in animal products, although they are less important than unsaturated hydrocarbons. One example is the shark liver oil, which is approximately 14% pristane (2,6,10,14-tetramethylpentadecane, C19H40). They are important as pheromones, chemical messenger materials, on which insects depend for communication. In some species, e.g. the support beetle Xylotrechus colonus, pentacosane (C25H52), 3-methylpentaicosane (C26H54) and 9-methylpentaicosane (C26H54) are transferred by body contact. With others like the tsetse fly Glossina morsitans morsitans, the pheromone contains the four alkanes 2-methylheptadecane (C18H38), 17,21-dimethylheptatriacontane (C39H80), 15,19-dimethylheptatriacontane (C39H80) and 15,19,23-trimethylheptatriacontane (C40H82), and acts by smell over longer distances. Waggle-dancing honey bees produce and release two alkanes, tricosane and pentacosane.[30]
+
+Ecological relations
+
+Early spider orchid (Ophrys sphegodes)
+One example, in which both plant and animal alkanes play a role, is the ecological relationship between the sand bee (Andrena nigroaenea) and the early spider orchid (Ophrys sphegodes); the latter is dependent for pollination on the former. Sand bees use pheromones in order to identify a mate; in the case of A. nigroaenea, the females emit a mixture of tricosane (C23H48), pentacosane (C25H52) and heptacosane (C27H56) in the ratio 3:3:1, and males are attracted by specifically this odor. The orchid takes advantage of this mating arrangement to get the male bee to collect and disseminate its pollen; parts of its flower not only resemble the appearance of sand bees but also produce large quantities of the three alkanes in the same ratio as female sand bees. As a result, numerous males are lured to the blooms and attempt to copulate with their imaginary partner: although this endeavor is not crowned with success for the bee, it allows the orchid to transfer its pollen, which will be dispersed after the departure of the frustrated male to different blooms.
+
+Production
+Petroleum refining
+
+An oil refinery at Martinez, California.
+As stated earlier, the most important source of alkanes is natural gas and crude oil.[13] Alkanes are separated in an oil refinery by fractional distillation and processed into many different products.
+
+Fischer–Tropsch
+The Fischer–Tropsch process is a method to synthesize liquid hydrocarbons, including alkanes, from carbon monoxide and hydrogen. This method is used to produce substitutes for petroleum distillates.
+
+Laboratory preparation
+There is usually little need for alkanes to be synthesized in the laboratory, since they are usually commercially available. Also, alkanes are generally unreactive chemically or biologically, and do not undergo functional group interconversions cleanly. When alkanes are produced in the laboratory, it is often a side-product of a reaction. For example, the use of n-butyllithium as a strong base gives the conjugate acid, n-butane as a side-product:
+
+C4H9Li + H2O > C4H10 + LiOH
+However, at times it may be desirable to make a section of a molecule into an alkane-like functionality (alkyl group) using the above or similar methods. For example, an ethyl group is an alkyl group; when this is attached to a hydroxy group, it gives ethanol, which is not an alkane. To do so, the best-known methods are hydrogenation of alkenes:
+
+RCH=CH2 + H2 > RCH2CH3     (R = alkyl)
+Alkanes or alkyl groups can also be prepared directly from alkyl halides in the Corey–House–Posner–Whitesides reaction. The Barton–McCombie deoxygenation[31][32] removes hydroxyl groups from alcohols e.g.
+
+Barton–McCombie deoxygenation scheme
+and the Clemmensen reduction[33][34][35][36] removes carbonyl groups from aldehydes and ketones to form alkanes or alkyl-substituted compounds e.g.:
+
+Clemmensen Reduction
+Applications
+The applications of alkanes depend on the number of carbon atoms. The first four alkanes are used mainly for heating and cooking purposes, and in some countries for electricity generation. Methane and ethane are the main components of natural gas; they are normally stored as gases under pressure. It is, however, easier to transport them as liquids: This requires both compression and cooling of the gas.
+
+Propane and butane are gases at atmospheric pressure that can be liquefied at fairly low pressures and are commonly known as liquified petroleum gas (LPG). Propane is used in propane gas burners and as a fuel for road vehicles,[37] butane in space heaters and disposable cigarette lighters. Both are used as propellants in aerosol sprays.
+
+From pentane to octane the alkanes are highly volatile liquids. They are used as fuels in internal combustion engines, as they vaporize easily on entry into the combustion chamber without forming droplets, which would impair the uniformity of the combustion. Branched-chain alkanes are preferred as they are much less prone to premature ignition, which causes knocking, than their straight-chain homologues. This propensity to premature ignition is measured by the octane rating of the fuel, where 2,2,4-trimethylpentane (isooctane) has an arbitrary value of 100, and heptane has a value of zero. Apart from their use as fuels, the middle alkanes are also good solvents for nonpolar substances.
+
+Alkanes from nonane to, for instance, hexadecane (an alkane with sixteen carbon atoms) are liquids of higher viscosity, less and less suitable for use in gasoline. They form instead the major part of diesel and aviation fuel. Diesel fuels are characterized by their cetane number, cetane being an old name for hexadecane. However, the higher melting points of these alkanes can cause problems at low temperatures and in polar regions, where the fuel becomes too thick to flow correctly.
+
+Alkanes from hexadecane upwards form the most important components of fuel oil and lubricating oil. In the latter function, they work at the same time as anti-corrosive agents, as their hydrophobic nature means that water cannot reach the metal surface. Many solid alkanes find use as paraffin wax, for example, in candles. This should not be confused however with true wax, which consists primarily of esters.
+
+Alkanes with a chain length of approximately 35 or more carbon atoms are found in bitumen, used, for example, in road surfacing. However, the higher alkanes have little value and are usually split into lower alkanes by cracking.
+
+Some synthetic polymers such as polyethylene and polypropylene are alkanes with chains containing hundreds of thousands of carbon atoms. These materials are used in innumerable applications, and billions of kilograms of these materials are made and used each year.

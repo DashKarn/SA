@@ -1,0 +1,165 @@
+Cfi
+Swimming Pool Chemistry
+Those who own or maintain swimming
+pools know that frequent checks
+should be made on the water quality.
+One kind of pool "housekeeping" involves the removal of suspended particles such as leaves, dirt, and hair using skimmers and filters. A second
+kind deals with the much less visible
+buildup in the water of dissolved pollutants. Dissolved pollutants such as
+body wastes, algae, and disease-causing bacteriarequire chemical
+treatment.
+Removing Bacteria
+The chemical treatment of swimming
+pools involves the active disinfectant
+hypochlorous acid, HOCI. HOCI, a
+substance also used in drinking water
+purification and the final step of wastewater treatment, can be produced by
+the reaction of chlorine gas, C12, with
+water:
+CI2 (g) + H20 (1)- HOCI (aq) + H+
+(aq) + CI- (aq)
+Because of the corrosive and toxic
+properties of chlorine gas, sophisticated equipment is needed to' handle
+it. This makes it impractical for home
+swimming pool use. Therefore,
+chlorine-containing compounds that
+serve as a source of HOCI are used instead. Sodium hypochlorite, NaOCI,
+the active ingredient in household
+bleach, is a commonly used disinfectant because it reacts with water to
+produce HOCI:
+NaOCI (aq) + H20-HOCI (aq) +
+Na+ (aq) + OH- (aq)
+Other examples of pool sanitizers are
+calcium hypochlorite, Ca(OClb which
+is marketed as HTH® and chlorinated
+isocyanurates, such as trichloroisocyanuric acid.
+Ca(OCI)2 + 2 H20-
+2 HOCI + Ca(OHh
+HOCI is a small molecule that is
+deadly to bacteria. Because of its size
+4
+CI
+I
+O=C....N......C=O HO-C~::;N.....C-O
+C I I C + 3H20 ......3HOCI + I II
+I-N......C,..N- I N~C/N
+II I
+o OH
+Trichloroisocyanuric acid Cyanuric acid
+and lack of charge, it can easily penetrate the cell wall of a bacterium. Once
+it is inside, both the chlorine and the
+oxygen from the hypochlorous acid
+molecule oxidize or "burn out" the interior of the bacterium by breaking
+down the bacterium's protein.
+Maintaining Chemical Balance
+The amount of HOCI available in a
+swimming pool depends on several
+factors. Immediately after treatment,
+there is plenty of HOCI in a pool. The
+level of HOCI decreases as it is used
+in destroying bacteria, algae, and
+other organic substances in the pool.
+Also, the amount of HOCI present in
+the water depends on the pH of the
+water in the pool.
+To see how changes in pH affect the
+amount of HOCI available, we must
+understand that HOCI dissociates
+(breaks apart) to form hydrogen ion,
+H+, and hypochlorite ion, OCI-, in
+water:
+HOCI (aq) - H+ (aq) + OCI- (aq)
+(1 )
+H+ and OCI- can also recombine to
+produce HOCI molecules:
+H+ (aq) + OCI- (aq) - HOCI (aq) (2)
+Because reaction 2 is just the reverse
+of reaction 1, and because both reactions are occurring at the same time,
+chemists usually write one equation to
+represent both processes.
+HOCI (aq) I I H+ (aq) + OCI-
+(Hypochlorous (Hydrogen (Hypochlorite
+acid) ion) ion)
+When these two reactions occur at the
+same rate, we say that an equilibrium
+exists.
+When the pH of the water in the
+pool .is lowered, that is when more H+
+is added to the system, the extra H+
+reacts with some of the OCI- already
+present to produce more HOCI. The
+concentration of HOCI available in the
+pool is increased and we say "the
+equilibrium is shifted to the left." If the
+pH is raised by adding a base, the extra hydroxide ion, OH-, combines with
+some of the H+ in the pool to produce
+water:
+H+ (aq) + OH- (aq) - H20 (I)
+Some of the available HOCI in the
+pool then breaks apart to form more
+H+ (to compensate for the H+ that
+was used up by the OH-) and more
+Using the relative sizes of the symbols
+to show concentration, we can show
+the equilibrium at a pH of 7.5 as:
+If the pH drops below 7.5, the equilibrium shifts to the left because of the increase in H + concentration:
++
+HOCI=H+OClIf the pH rises, the equilibrium shifts to
+the right to try to replace the H + consumed by base:
+HOCl~ H'+ OCIFigure 1
+Effects of pH changes
+%of %of
+chlorine chlorine
+pH as OCI- as HOCI
+6.0 3.5 96.5
+6,5 10.0 90.0
+7.0 27.5 72.5
+7.5 50.0 50.0
+8.0 78.5 21.5
+8.5 90.0 10.0
+OCI-. We say that the "equilibrium is
+shifted to the right."
+Figure 1 shows how shifts in pH
+change the concentrations of OCIand HOCI.
+The Ideal pH Level
+The ideal equilibrium distribution is
+equal concentrations of HOCI and
+OCI-. The table shows that a pH of 7.5
+maintains this balance. If the pH is
+held in the range from 7.2 to 7.8, a
+suitable distribution of HOCI and OCIis provided. If the pH is lower than 7.2,
+the high concentration of HOCI is very
+irritating to the eyes of swimmers.
+Also, the growth of algae flourishes in
+this acid range. If the pH is higher than
+7.8, too much of the disinfectant is
+present as OCI-, which is decomposed
+rapidly by sunlight.
+The pH is adjusted by adding acid
+or base to the pool water. If the pH is
+too high (if the pool water is too basic),
+hydrochloric (muriatic) acid, HCI, or sodium bisulfate, NaHS04 , can be
+added to the water to react with this
+excess base. If the pH is too low (if the
+pool is too acidic), sodium carbonate,
+Na2C03, added to the pool will react
+with the excess acid and bring the pH
+back up to an acceptable value.
+Pool care involves both physical and
+chemical treatments. Although the
+tests used to determine the necessity
+of chemical treatment do not require
+an understanding of the chemistry involved, some knowledge of acid-base
+chemistry, pH, and equilibrium concepts provides the pool owner with the
+logic behind these chemical treatments. This knowledge also helps to
+ensure the safety of all who use the
+pool.
+References
+Linda, F. w.; Hollenbach, R.C. "The Backyard
+Pool." Sciquest, 52(5):7-9, May/June 1979.
+Faust, J. P; Gower, A.H. "Treatment of Swimming Pools." Kirk-Othmer Encylopedia of
+Chemical Technology, Vol. 22, 2nd ed. N.V:
+Wiley and Sons, 1970.
+Faust, J. P; Waldvogel, R.L. The HTffF! Water
+Book. Stamford, Connecticut: Olin Chemicals, 1976.
+5

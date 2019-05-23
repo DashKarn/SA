@@ -1,0 +1,206 @@
+Etymology
+Ethanol is the systematic name defined by the International Union of Pure and Applied Chemistry (IUPAC) for a compound consisting of alkyl group with two carbon atoms (prefix “eth-”), having a single bond between them (infix “-an-”), attached functional group ?OH group (suffix “-ol”).[1]
+
+The “eth-” prefix and the qualifier “ethyl” in “ethyl alcohol” originally come from the name “ethyl” assigned in 1834 to the group C
+2H
+5? by Justus Liebig. He coined the word from the German name Aether of the compound C
+2H
+5?O?C
+2H
+5 (commonly called “ether” in English, more specifically called “diethyl ether”).[10] According to the Oxford English Dictionary, Ethyl is a contraction of the Ancient Greek ????? (aith?r, “upper air”) and the Greek word ??? (hyle, “substance”).[11]
+
+Chemistry
+Further information: Ethanol (data page)
+Chemical formula
+Ethanol is a 2-carbon alcohol. Its molecular formula is CH3CH2OH. An alternative notation is CH3?CH2?OH, which indicates that the carbon of a methyl group (CH3?) is attached to the carbon of a methylene group (?CH2–), which is attached to the oxygen of a hydroxyl group (?OH). It is a constitutional isomer of dimethyl ether. Ethanol is sometimes abbreviated as EtOH, using the common organic chemistry notation of representing the ethyl group (C2H5?) with Et.
+
+
+Solvent properties
+Ethanol is a versatile solvent, miscible with water and with many organic solvents, including acetic acid, acetone, benzene, carbon tetrachloride, chloroform, diethyl ether, ethylene glycol, glycerol, nitromethane, pyridine, and toluene.[54][56] It is also miscible with light aliphatic hydrocarbons, such as pentane and hexane, and with aliphatic chlorides such as trichloroethane and tetrachloroethylene.[56]
+
+Ethanol's miscibility with water contrasts with the immiscibility of longer-chain alcohols (five or more carbon atoms), whose water miscibility decreases sharply as the number of carbons increases.[57] The miscibility of ethanol with alkanes is limited to alkanes up to undecane: mixtures with dodecane and higher alkanes show a miscibility gap below a certain temperature (about 13 °C for dodecane[58]). The miscibility gap tends to get wider with higher alkanes and the temperature for complete miscibility increases.
+
+Ethanol-water mixtures have less volume than the sum of their individual components at the given fractions. Mixing equal volumes of ethanol and water results in only 1.92 volumes of mixture.[54][59] Mixing ethanol and water is exothermic, with up to 777 J/mol[60] being released at 298 K.
+
+Mixtures of ethanol and water form an azeotrope at about 89 mole-% ethanol and 11 mole-% water[61] or a mixture of 95.6 percent ethanol by mass (or about 97% alcohol by volume) at normal pressure, which boils at 351K (78 °C). This azeotropic composition is strongly temperature- and pressure-dependent and vanishes at temperatures below 303 K.[62]
+
+
+Hydrogen bonding in solid ethanol at ?186 °C
+Hydrogen bonding causes pure ethanol to be hygroscopic to the extent that it readily absorbs water from the air. The polar nature of the hydroxyl group causes ethanol to dissolve many ionic compounds, notably sodium and potassium hydroxides, magnesium chloride, calcium chloride, ammonium chloride, ammonium bromide, and sodium bromide.[56] Sodium and potassium chlorides are slightly soluble in ethanol.[56] Because the ethanol molecule also has a nonpolar end, it will also dissolve nonpolar substances, including most essential oils[63] and numerous flavoring, coloring, and medicinal agents.
+
+The addition of even a few percent of ethanol to water sharply reduces the surface tension of water. This property partially explains the "tears of wine" phenomenon. When wine is swirled in a glass, ethanol evaporates quickly from the thin film of wine on the wall of the glass. As the wine's ethanol content decreases, its surface tension increases and the thin film "beads up" and runs down the glass in channels rather than as a smooth sheet.
+
+Flammability
+An ethanol–water solution that contains 40% alcohol by mass (about 56% by volume) will catch fire if heated to about 26 °C (79 °F) and if an ignition source is applied to it. This is called its flash point.[64] The flash point of pure ethanol is 16.60 °C (61.88 °F), less than average room temperature.
+
+Flash points of ethanol–water mixtures[65]
+Ethanol
+mass fraction, %	Temperature
+°C	°F
+10	49	120
+20	36	97
+30	29	84
+40	26	79
+50	24	75
+60	22	72
+70	21	70
+80	20	68
+90	17	63
+96	17	63
+Dishes using burning alcohol for culinary effects are called flambe.
+
+Natural occurrence
+Ethanol is a byproduct of the metabolic process of yeast. As such, ethanol will be present in any yeast habitat. Ethanol can commonly be found in overripe fruit.[66] Ethanol produced by symbiotic yeast can be found in bertam palm blossoms. Although some animal species such as the pentailed treeshrew exhibit ethanol-seeking behaviors, most show no interest or avoidance of food sources containing ethanol.[67] Ethanol is also produced during the germination of many plants as a result of natural anerobiosis.[68] Ethanol has been detected in outer space, forming an icy coating around dust grains in interstellar clouds.[69] Minute quantity amounts (average 196 ppb) of endogenous ethanol and acetaldehyde were found in the exhaled breath of healthy volunteers.[70] Auto-brewery syndrome, also known as gut fermentation syndrome, is a rare medical condition in which intoxicating quantities of ethanol are produced through endogenous fermentation within the digestive system.[71]
+
+Production
+
+94% denatured ethanol sold in a bottle for household use
+Ethanol is produced both as a petrochemical, through the hydration of ethylene and, via biological processes, by fermenting sugars with yeast.[72] Which process is more economical depends on prevailing prices of petroleum and grain feed stocks. In the 1970s most industrial ethanol in the United States was made as a petrochemical, but in the 1980s the United States introduced subsidies for corn-based ethanol and today it is almost all made from that source.[73]
+
+Ethylene hydration
+Ethanol for use as an industrial feedstock or solvent (sometimes referred to as synthetic ethanol) is made from petrochemical feed stocks, primarily by the acid-catalyzed hydration of ethylene:
+
+C
+2H
+4 + H
+2O > CH
+3CH
+2OH
+The catalyst is most commonly phosphoric acid,[74][75] adsorbed onto a porous support such as silica gel or diatomaceous earth. This catalyst was first used for large-scale ethanol production by the Shell Oil Company in 1947.[76] The reaction is carried out in the presence of high pressure steam at 300 °C (572 °F) where a 5:3 ethylene to steam ratio is maintained.[77][78] In the U.S., this process was used on an industrial scale by Union Carbide Corporation and others, but now only LyondellBasell uses it commercially.
+
+In an older process, first practiced on the industrial scale in 1930 by Union Carbide,[79] but now almost entirely obsolete, ethylene was hydrated indirectly by reacting it with concentrated sulfuric acid to produce ethyl sulfate, which was hydrolyzed to yield ethanol and regenerate the sulfuric acid:[80]
+
+C
+2H
+4 + H
+2SO
+4 > CH
+3CH
+2SO
+4H
+CH
+3CH
+2SO
+4H + H
+2O > CH
+3CH
+2OH + H
+2SO
+4
+From CO2
+CO2 can also be used as the raw material.
+
+CO2 can be reduced by hydrogen to produce ethanol, acetic acid, and smaller amounts of 2,3-butanediol and lactic acid using Clostridium ljungdahlii, Clostridium autoethanogenum or Moorella sp. HUC22-1.[81][82]
+
+CO2 can be converted using electrochemical reactions at room temperature and pressure.[83][84] In a system developed at Delft University of Technology, a copper nanowire array used as a cathode adsorbs molecules of carbon dioxide and reduced intermediate species such as CO and COH. However, even in the best results about half the current went into producing hydrogen and only a small amount of ethanol was produced. Other products, produced in larger quantities, were (in decreasing order) formic acid, ethylene, CO, and n-propanol.[85]
+
+From lipids
+Lipids can also be used to make ethanol and can be found in such raw materials such as algae.[86]
+
+Fermentation
+Main article: Ethanol fermentation
+See also: Yeast in winemaking
+Ethanol in alcoholic beverages and fuel is produced by fermentation. Certain species of yeast (e.g., Saccharomyces cerevisiae) metabolize sugar, producing ethanol and carbon dioxide. The chemical equations below summarize the conversion:
+
+C
+6H
+12O
+6 > 2 CH
+3CH
+2OH + 2 CO2
+C
+12H
+22O
+11 + H
+2O > 4 CH
+3CH
+2OH + 4 CO2
+Fermentation is the process of culturing yeast under favorable thermal conditions to produce alcohol. This process is carried out at around 35–40 °C (95–104 °F). Toxicity of ethanol to yeast limits the ethanol concentration obtainable by brewing; higher concentrations, therefore, are obtained by fortification or distillation. The most ethanol-tolerant yeast strains can survive up to approximately 18% ethanol by volume.
+
+To produce ethanol from starchy materials such as cereal grains, the starch must first be converted into sugars. In brewing beer, this has traditionally been accomplished by allowing the grain to germinate, or malt, which produces the enzyme amylase. When the malted grain is mashed, the amylase converts the remaining starches into sugars.
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Ethanol" – news · newspapers · books · scholar · JSTOR (December 2015) (Learn how and when to remove this template message)
+Apart from distillation, ethanol may be dried by addition of a desiccant, such as molecular sieves, cellulose, and cornmeal. The desiccants can be dried and reused.[75] Molecular sieves can be used to selectively absorb the water from the 95.6% ethanol solution.[88] Synthetic zeolite in pellet form can be used, as well as a variety of plant-derived absorbents, including cornmeal, straw, and sawdust. The zeolite bed can be regenerated essentially an unlimited number of times by drying it with a blast of hot carbon dioxide. Cornmeal and other plant-derived absorbents cannot readily be regenerated, but where ethanol is made from grain, they are often available at low cost. Absolute ethanol produced this way has no residual benzene, and can be used to fortify port and sherry in traditional winery operations.
+
+Membranes and reverse osmosis
+Membranes can also be used to separate ethanol and water. Membrane-based separations are not subject to the limitations of the water-ethanol azeotrope because the separations are not based on vapor-liquid equilibria. Membranes are often used in the so-called hybrid membrane distillation process. This process uses a pre-concentration distillation column as first separating step. The further separation is then accomplished with a membrane operated either in vapor permeation or pervaporation mode. Vapor permeation uses a vapor membrane feed and pervaporation uses a liquid membrane feed.
+
+Other techniques
+A variety of other techniques have been discussed, including the following:[75]
+
+Salting using potassium carbonate to exploit its insolubility will cause a phase separation with ethanol and water. This offers a very small potassium carbonate impurity to the alcohol that can be removed by distillation. This method is very useful in purification of ethanol by distillation, as ethanol forms an azeotrope with water.
+Direct electrochemical reduction of carbon dioxide to ethanol under ambient conditions using copper nanoparticles on a carbon nanospike film as the catalyst;[89]
+Extraction of ethanol from grain mash by supercritical carbon dioxide;
+Pervaporation;
+Fractional freezing is also used to concentrate fermented alcoholic solutions, such as traditionally made Applejack (beverage);
+Pressure swing adsorption.[90]
+Grades of ethanol
+Denatured alcohol
+Main article: Denatured alcohol
+Pure ethanol and alcoholic beverages are heavily taxed as psychoactive drugs, but ethanol has many uses that do not involve its consumption. To relieve the tax burden on these uses, most jurisdictions waive the tax when an agent has been added to the ethanol to render it unfit to drink. These include bittering agents such as denatonium benzoate and toxins such as methanol, naphtha, and pyridine. Products of this kind are called denatured alcohol.[91][92]
+
+Absolute alcohol
+Absolute or anhydrous alcohol refers to ethanol with a low water content. There are various grades with maximum water contents ranging from 1% to a few parts per million (ppm) levels. If azeotropic distillation is used to remove water, it will contain trace amounts of the material separation agent (e.g. benzene).[93] Absolute alcohol is not intended for human consumption. Absolute ethanol is used as a solvent for laboratory and industrial applications, where water will react with other chemicals, and as fuel alcohol. Spectroscopic ethanol is an absolute ethanol with a low absorbance in ultraviolet and visible light, fit for use as a solvent in ultraviolet-visible spectroscopy.[94]
+
+Pure ethanol is classed as 200 proof in the U.S., equivalent to 175 degrees proof in the UK system.[95]
+
+Rectified spirits
+Rectified spirit, an azeotropic composition of 96% ethanol containing 4% water, is used instead of anhydrous ethanol for various purposes. Wine spirits are about 94% ethanol (188 proof). The impurities are different from those in 95% (190 proof) laboratory ethanol.[96]
+
+Reactions
+Further information: Alcohol
+Ethanol is classified as a primary alcohol, meaning that the carbon its hydroxyl group attaches to has at least two hydrogen atoms attached to it as well. Many ethanol reactions occur at its hydroxyl group.
+
+Ester formation
+In the presence of acid catalysts, ethanol reacts with carboxylic acids to produce ethyl esters and water:
+
+RCOOH + HOCH2CH3 > RCOOCH2CH3 + H2O
+This reaction, which is conducted on large scale industrially, requires the removal of the water from the reaction mixture as it is formed. Esters react in the presence of an acid or base to give back the alcohol and a salt. This reaction is known as saponification because it is used in the preparation of soap. Ethanol can also form esters with inorganic acids. Diethyl sulfate and triethyl phosphate are prepared by treating ethanol with sulfur trioxide and phosphorus pentoxide respectively. Diethyl sulfate is a useful ethylating agent in organic synthesis. Ethyl nitrite, prepared from the reaction of ethanol with sodium nitrite and sulfuric acid, was formerly used as a diuretic.
+
+Dehydration
+In the presence of acid catalysts, ethanol converts to ethylene. Typically solid acids such as silica are used:[97]
+
+   CH3CH2OH > H2C=CH2 + H2O
+Ethylene produced in this way competes with ethylene from oil refineries and fracking.
+
+Under alternative conditions, diethyl ether results:
+
+2 CH3CH2OH > CH3CH2OCH2CH3 + H2O
+Combustion
+Complete combustion of ethanol forms carbon dioxide and water:
+
+C2H5OH (l) + 3 O2 (g) > 2 CO2 (g) + 3 H2O (l); ??Hc = 1371 kJ/mol[98] = 29.8 kJ/g = 327 kcal/mol = 7.1 kcal/g
+C2H5OH (l) + 3 O2 (g) > 2 CO2 (g) + 3 H2O (g); ??Hc = 1236 kJ/mol = 26.8 kJ/g = 295.4 kcal/mol = 6.41 kcal/g[99]
+Specific heat = 2.44 kJ/(kg·K)
+
+Acid-base chemistry
+Ethanol is a neutral molecule and the pH of a solution of ethanol in water is nearly 7.00. Ethanol can be quantitatively converted to its conjugate base, the ethoxide ion (CH3CH2O?), by reaction with an alkali metal such as sodium:[57]
+
+2 CH3CH2OH + 2 Na > 2 CH3CH2ONa + H2
+or a very strong base such as sodium hydride:
+
+CH3CH2OH + NaH > CH3CH2ONa + H2
+The acidity of water and ethanol are nearly the same, as indicated by their pKa of 15.7 and 16 respectively. Thus, sodium ethoxide and sodium hydroxide exist in an equilibrium that is closely balanced:
+
+CH3CH2OH + NaOH ? CH3CH2ONa + H2O
+Halogenation
+Ethanol is not used industrially as a precursor to ethyl halides, but the reactions are illustrative. Ethanol reacts with hydrogen halides to produce ethyl halides such as ethyl chloride and ethyl bromide via an SN2 reaction:
+
+CH3CH2OH + HCl > CH3CH2Cl + H2O
+These reactions require a catalyst such as zinc chloride.[80] HBr requires refluxing with a sulfuric acid catalyst.[80] Ethyl halides can, in principle, also be produced by treating ethanol with more specialized halogenating agents, such as thionyl chloride or phosphorus tribromide.[57][80]
+
+CH3CH2OH + SOCl2 > CH3CH2Cl + SO2 + HCl
+Upon treatment with halogens in the presence of base, ethanol gives the corresponding haloform (CHX3, where X = Cl, Br, I). This conversion is called the haloform reaction.[100] " An intermediate in the reaction with chlorine is the aldehyde called chloral, which forms chloral hydrate upon reaction with water:[101]
+
+4 Cl2 + CH3CH2OH > CCl3CHO + 5 HCl
+CCl3CHO + H2O > CCl3C(OH)2H
+Oxidation
+Ethanol can be oxidized to acetaldehyde and further oxidized to acetic acid, depending on the reagents and conditions.[80] This oxidation is of no importance industrially, but in the human body, these oxidation reactions are catalyzed by the enzyme liver alcohol dehydrogenase. The oxidation product of ethanol, acetic acid, is a nutrient for humans, being a precursor to acetyl CoA, where the acetyl group can be spent as energy or used for biosynthesis.
+
+Safety
+See also: Alcohol § Toxicity
+Pure ethanol will irritate the skin and eyes.[102] Nausea, vomiting, and intoxication are symptoms of ingestion. Long-term use by ingestion can result in serious liver damage.[103] Atmospheric concentrations above one in a thousand are above the European Union occupational exposure limits.[103]
+
+History

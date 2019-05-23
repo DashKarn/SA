@@ -1,0 +1,120 @@
+Biopsychological theories
+Simulated Connectivity Damage of Phineas Gage 4 vanHorn PathwaysDamaged left.jpg
+
+False-color represent­tations of cere­bral fiber path­ways affect­ed in Phineas Gage's accident, per Van Horn et al.
+Biology plays a very important role in the development of personality. The study of the biological level in personality psychology focuses primarily on identifying the role of genetic determinants and how they mold individual personalities.[35] Some of the earliest thinking about possible biological bases of personality grew out of the case of Phineas Gage. In an 1848 accident, a large iron rod was driven through Gage's head, and his personality apparently changed as a result, although descriptions[36] of these psychological changes are usually exaggerated.[37][38]
+
+In general, patients with brain damage have been difficult to find and study. In the 1990s, researchers began to use electroencephalography (EEG), positron emission tomography (PET), and more recently functional magnetic resonance imaging (fMRI), which is now the most widely used imaging technique to help localize personality traits in the brain.
+
+Genetic basis of personality
+Ever since the Human Genome Project allowed for a much more in depth understanding of genetics, there has been an ongoing controversy involving heritability, personality traits, and environmental vs. genetic influence on personality. The human genome is known to play a role in the development of personality.
+Previously, genetic personality studies focused on specific genes correlating to specific personality traits. Today's view of the gene-personality relationship focuses primarily on the activation and expression of genes related to personality and forms part of what is referred to as behavioural genetics. Genes provide numerous options for varying cells to be expressed; however, the environment determines which of these are activated. Many studies have noted this relationship in varying ways in which our bodies can develop, but the interaction between genes and the shaping of our minds and personality is also relevant to this biological relationship.[39]
+DNA-environment interactions are important in the development of personality because this relationship determines what part of the DNA code is actually made into proteins that will become part of an individual. It has been noted that while different choices are made available by the genome, in the end, the environment is the ultimate determinant of what becomes activated. Small changes in DNA in individuals are what lead to the uniqueness of every person as well as differences in looks, abilities, brain functioning, and all the factors that culminate to develop a cohesive personality.[40]
+
+Cattell and Eysenck have proposed that genetics have a strong influence on personality. A large part of the evidence collected linking genetics and the environment to personality have come from twin studies. This "twin method" compares levels of similarity in personality using genetically identical twins. One of the first of these twin studies measured 800 pairs of twins, studied numerous personality traits, and determined that identical twins are most similar in their general abilities. Personality similarities were found to be less related for self-concepts, goals, and interests.[41]
+
+Twin studies have also been important in the creation of the five factor personality model: neuroticism, extraversion, openness, agreeableness, and conscientiousness. Neuroticism and extraversion are the two most widely studied traits. A person that may fall into the extravert category can display characteristics such as impulsiveness, sociability, and activeness. A person falling into the neuroticism category may be more likely to be moody, anxious, or irritable. Identical twins, however, have higher correlations in personality traits than fraternal twins. One study measuring genetic influence on twins in five different countries found that the correlations for identical twins were .50, while for fraternal they were about .20.[41] It is suggested that heredity and environment interact to determine one's personality.[42][43]
+
+Evolutionary theory
+Charles Darwin is the founder of the theory of the evolution of the species. The evolutionary approach to personality psychology is based on this theory.[44] This theory examines how individual personality differences are based on natural selection. Through natural selection organisms change over time through adaptation and selection. Traits are developed and certain genes come into expression based on an organism's environment and how these traits aid in an organism's survival and reproduction.
+
+Polymorphisms, such as gender and blood type, are forms of diversity which evolve to benefit a species as a whole.[45] The theory of evolution has wide-ranging implications on personality psychology. Personality viewed through the lens of evolutionary psychology places a great deal of emphasis on specific traits that are most likely to aid in survival and reproduction, such as conscientiousness, sociability, emotional stability, and dominance.[46] The social aspects of personality can be seen through an evolutionary perspective. Specific character traits develop and are selected for because they play an important and complex role in the social hierarchy of organisms. Such characteristics of this social hierarchy include the sharing of important resources, family and mating interactions, and the harm or help organisms can bestow upon one another.[44]
+
+Drive theories
+In the 1930s, John Dollard and Neal Elgar Miller met at Yale University, and began an attempt to integrate drives (see Drive theory), into a theory of personality, basing themselves on the work of Clark Hull. They began with the premise that personality could be equated with the habitual responses exhibited by an individual – their habits. From there, they determined that these habitual responses were built on secondary, or acquired drives.
+
+Secondary drives are internal needs directing the behaviour of an individual that results from learning.[47] Acquired drives are learned, by and large in the manner described by classical conditioning. When we are in a certain environment and experience a strong response to a stimulus, we internalize cues from the said environment.[47] When we find ourselves in an environment with similar cues, we begin to act in anticipation of a similar stimulus.[47] Thus, we are likely to experience anxiety in an environment with cues similar to one where we have experienced pain or fear – such as the dentist's office.
+
+Secondary drives are built on primary drives, which are biologically driven, and motivate us to act with no prior learning process – such as hunger, thirst or the need for sexual activity. However, secondary drives are thought to represent more specific elaborations of primary drives, behind which the functions of the original primary drive continue to exist.[47] Thus, the primary drives of fear and pain exist behind the acquired drive of anxiety. Secondary drives can be based on multiple primary drives and even in other secondary drives. This is said to give them strength and persistence.[47] Examples include the need for money, which was conceptualized as arising from multiple primary drives such as the drive for food and warmth, as well as from secondary drives such as imitativeness (the drive to do as others do) and anxiety.[47]
+
+Secondary drives vary based on the social conditions under which they were learned – such as culture. Dollard and Miller used the example of food, stating that the primary drive of hunger manifested itself behind the learned secondary drive of an appetite for a specific type of food, which was dependent on the culture of the individual.[47]
+
+Secondary drives are also explicitly social, representing a manner in which we convey our primary drives to others.[48] Indeed, many primary drives are actively repressed by society (such as the sexual drive).[47] Dollard and Miller believed that the acquisition of secondary drives was essential to childhood development.[48] As children develop, they learn not to act on their primary drives, such as hunger but acquire secondary drives through reinforcement.[47] Friedman and Schustack describe an example of such developmental changes, stating that if an infant engaging in an active orientation towards others brings about the fulfillment of primary drives, such as being fed or having their diaper changed, they will develop a secondary drive to pursue similar interactions with others – perhaps leading to an individual being more gregarious.[47][48] Dollard and Miller's belief in the importance of acquired drives led them to reconceive Sigmund Freud's theory of psychosexual development.[48] They found themselves to be in agreement with the timing Freud used but believed that these periods corresponded to the successful learning of certain secondary drives.[48]
+
+Dollard and Miller gave many examples of how secondary drives impact our habitual responses – and by extension our personalities, including anger, social conformity, imitativeness or anxiety, to name a few. In the case of anxiety, Dollard and Miller note that people who generalize the situation in which they experience the anxiety drive will experience anxiety far more than they should.[47] These people are often anxious all the time, and anxiety becomes part of their personality.[47] This example shows how drive theory can have ties with other theories of personality – many of them look at the trait of neuroticism or emotional stability in people, which is strongly linked to anxiety.
+
+Personality tests
+There are two major types of personality tests, projective and objective.
+
+Projective tests assume personality is primarily unconscious and assess individuals by how they respond to an ambiguous stimulus, such as an ink blot. Projective tests have been in use for about 60 years and continue to be used today. Examples of such tests include the Rorschach test and the Thematic Apperception Test.
+
+The Rorschach Test involves showing an individual a series of note cards with ambiguous ink blots on them. The individual being tested is asked to provide interpretations of the blots on the cards by stating everything that the ink blot may resemble based on their personal interpretation. The therapist then analyzes their responses. Rules for scoring the test have been covered in manuals that cover a wide variety of characteristics such as content, originality of response, location of "perceived images" and several other factors. Using these specific scoring methods, the therapist will then attempt to relate test responses to attributes of the individual's personality and their unique characteristics.[49] The idea is that unconscious needs will come out in the person's response, e.g. an aggressive person may see images of destruction.
+The Thematic Apperception Test (also known as the TAT) involves presenting individuals with vague pictures/scenes and asking them to tell a story based on what they see. Common examples of these "scenes" include images that may suggest family relationships or specific situations, such as a father and son or a man and a woman in a bedroom.[50] Responses are analyzed for common themes. Responses unique to an individual are theoretically meant to indicate underlying thoughts, processes, and potentially conflicts present within the individual. Responses are believed to be directly linked to unconscious motives. There is very little empirical evidence available to support these methods.[51]
+
+Objective tests assume personality is consciously accessible and that it can be measured by self-report questionnaires. Research on psychological assessment has generally found objective tests to be more valid and reliable than projective tests. Critics have pointed to the Forer effect to suggest some of these appear to be more accurate and discriminating than they really are. Issues with these tests include false reporting because there is no way to tell if an individual is answering a question honestly or accurately.
+
+The Myers-Briggs Type Indicator (also known as the MBTI) is self-reporting questionnaire based on Carl Jung's Type theory.[52]
+
+Personality theory assessment criteria
+Verifiability - the theory should be formulated in such a way that the concepts, suggestions and hypotheses involved in it are defined clearly and unambiguously, and logically related to each other.
+Heuristic value - to what extent the theory stimulates scientists to conduct further research.
+Internal consistency - the theory should be free from internal contradictions.
+Economy - the fewer concepts and assumptions required by the theory to explain any phenomenon, the better it is Hjelle, Larry (1992). Personality Theories: Basic Assumptions, Research, and Applications.
+Psychology has traditionally defined personality through its behavioral patterns, and more recently with neuroscientific studies of the brain. In recent years, some psychologists have turned to the study of inner experiences for insight into personality as well as individuality. Inner experiences are the thoughts and feelings to an immediate phenomenon. Another term used to define inner experiences is qualia. Being able to understand inner experiences assists in understanding how humans behave, act, and respond. Defining personality using inner experiences has been expanding due to the fact that solely relying on behavioral principles to explain one's character may seem incomplete. Behavioral methods allow the subject to be observed by an observer, whereas with inner experiences the subject is its own observer.[53][54]
+
+Methods measuring inner experience
+Descriptive experience sampling (DES), developed by psychologist Russel Hurlburt. This is an idiographic method that is used to help examine inner experiences. This method relies on an introspective technique that allows an individual's inner experiences and characteristics to be described and measured. A beep notifies the subject to record their experience at that exact moment and 24 hours later an interview is given based on all the experiences recorded. DES has been used in subjects that have been diagnosed with schizophrenia and depression. It has also been crucial to studying the inner experiences of those who have been diagnosed with common psychiatric diseases.[54][55][56]
+
+Articulated thoughts in stimulated situations (ATSS): ATSS is a paradigm which was created as an alternative to the TA (think aloud) method. This method assumes that people have continuous internal dialogues that can be naturally attended to. ATSS also assesses a person’s inner thoughts as they verbalize their cognitions. In this procedure, subjects listen to a scenario via a video or audio player and are asked to imagine that they are in that specific situation. Later, they are asked to articulate their thoughts as they occur in reaction to the playing scenario. This method is useful in studying emotional experience given that the scenarios used can influence specific emotions. Most importantly, the method has contributed to the study of personality. In a study conducted by Rayburn and Davison (2002), subjects’ thoughts and empathy toward anti-gay hate crimes were evaluated. The researchers found that participants showed more aggressive intentions towards the offender in scenarios which mimicked hate crimes.[54]
+
+Experimental method: This method is an experimental paradigm used to study human experiences involved in the studies of sensation and perception, learning and memory, motivation, and biological psychology. The experimental psychologist usually deals with intact organisms although studies are often conducted with organisms modified by surgery, radiation, drug treatment, or long-standing deprivations of various kinds or with organisms that naturally present organic abnormalities or emotional disorders. Economists and psychologists have developed a variety of experimental methodologies to elicit and assess individual attitudes where each emotion differs for each individual. The results are then gathered and quantified to conclude if specific experiences have any common factors. This method is used to seek clarity of the experience and remove any biases to help understand the meaning behind the experience to see if it can be generalized.[53]
+
+See also
+Clinical psychology
+Epigenetics in psychology
+Four temperaments
+Holland Codes
+Individual differences
+Industrial & organizational assessment
+Industrial and organizational psychology
+Journal of Individual Differences
+Myers-Briggs Type Indicator
+Personality tests
+Psychological typologies
+Self-concealment
+Self-concept
+Self-esteem
+Team composition
+Trait leadership
+Trait theory
+Type A personality
+Will (philosophy)
+References
+ Friedman, Howard; Schustack, Miriam (2016). Personality: Classic theories and modern research. USA: Pearson. ISBN 978-0-205-99793-0.
+ Winnie, J.F. & Gittinger, J.W. (1973) An introduction to the personality assessment system. Journal of Clinical Psychology, Monograph Supplement, 38,1=68
+ Krauskopf, C.J. & Saunders, D.R, (1994) Personality and Ability: The Personality Assessment System. University Press of America, Lanham, Maryland
+ Engler, Barbara (2008). Personality theories : an introduction (8th ed.). Boston, MA: Houghton Mifflin. ISBN 9780547148342.
+ Fleeson, W. (2004). "Moving personality beyond the person-situation debate: The challenge and the opportunity of within-person variability". Current Directions in Psychological Science. 13 (2): 83–87. doi:10.1111/j.0963-7214.2004.00280.x.
+ Zayas, V; Shoda Y (2009). "Three decades after the personality paradox: Understanding situations". Journal of Research in Personality. 43 (2): 280–281. doi:10.1016/j.jrp.2009.03.011.
+ Tapu, C.S. (2001). Hypostatic personality: psychopathology of doing and being made. Premier. pp. 28–31. ISBN 978-9738030596.
+ Cartwright, Desmond (1979). Theories and Models of Personality (I ed.). Debuque, Iowa: Wm. C. Brown Company Publishers. p. 178. ISBN 978-0-697-06624-4.
+ Sharp, Daryl (1987). Personality types: Jung's model of typology. Toronto, Canada: Inner City Books. p. 128. ISBN 978-0919123304.
+ Bradberry, T (2009). Self-Awareness. Penguin. ISBN 978-1101148679.
+ Myers, Isabel Briggs with Peter B. Myers (1995) [1980]. Gifts Differing: Understanding Personality Type. Mountain View, California: Davies-Black Publishing. ISBN 978-0-89106-074-1.
+ Please Understand Me II: Temperament, Character, Intelligence (1st ed.). Prometheus Nemesis Book Co. May 1, 1998. ISBN 978-1-885705-02-0.
+ Pittenger, David J. (November 1993). "Measuring the MBTI. . .And Coming Up Short" (PDF). Journal of Career Planning and Employment. 54 (1): 48–52.
+ Myers, Isabel Briggs; Mary H. McCaulley (1985). Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator (2nd ed.). Palo Alto, California: Consulting Psychologists Press. p. 8. ISBN 978-0-89106-027-7.
+ Kahn, Michael (2002). Basic Freud : psychoanalytic thought for the twenty first century (1. paperback ed.). New York: Basic Books. ISBN 9780465037162.
+ Carver, C., & Scheier, M. (2004). Perspectives on Personality (5th ed.). Boston: Pearson.
+ Cheney, W. David Pierce, Carl D. (2008). Behavior analysis and learning (4th ed.). New York, NY: Psychology Press. ISBN 9780805862607.
+ Baron, J. (1982). "Intelligence and Personality." In R. Sternberg (Ed.). Handbook of Intelligence. Cambridge: Cambridge University Press.
+ Abramson, Lyn Y.; Seligman, Martin E. P.; Teasdale, John D. (1978). "Learned helplessness in humans: Critique and reformulation". Journal of Abnormal Psychology. 87 (1): 49–74. doi:10.1037/0021-843X.87.1.49. PMID 649856.
+ Wallston et al., 1978
+ Peterson et al., 1982
+ Peterson & Villanova, 1988
+ Gong-guy & Hammen, 1990
+ Norman & Antaki, 1988
+ Anderson, 1988
+ Whyte, Cassandra Bolyard (1978). "Effective Counseling Methods for High-Risk College Freshmen". Measurement and Evaluation in Guidance. 10 (4): 198–200. doi:10.1080/00256307.1978.12022132.
+ Lauridsen Kurt (ed) and Whyte, Cassandra B. (1985) An Integrated Counseling and Learning Assistance Center-Chapter for New Directions Sourcebook. Jossey-Bass, Inc
+ Whyte, Cassandra; Whyte, William R. (1982). "Accelerated Programs Behind Prison Walls". College Student Journal. 16 (1): 70–74.
+ Epstein, Seymour; In: Handbook of psychology: Personality and social psychology, Vol. 5. Millon, Theodore (Ed.); Lerner, Melvin J. (Ed.); Hoboken, NJ, US: John Wiley & Sons Inc, 2003. pp. 159-184. [Chapter]
+ Kelly, George A. (1980). Theory of Personality : the psychology of personal constructs (1. publ. in ... pbk. ed.). New York [u.a.]: Norton. ISBN 978-0393001525.
+ Stefaroi, P. (2015). Humanistic Personology: A Humanistic-Ontological Theory of the Person & Personality. Applications in Therapy, Social Work, Education, Management and Art (Theatre). Charleston SC, USA: CreateSpace.
+ Combs, Arthur W., and Snygg, Donald.  : A New Frame of Reference for Psychology. New York, Harper and Brothers. Article on Snygg and Combs' Phenomenological Field Theory
+ Watt, Robert W. White ; Norman F. (1981). The abnormal personality (5th ed.). New York: John Wiley & Sons. ISBN 978-0-471-04599-1.
+ Maslow, Abraham H. (1999). Toward a Psychology of Being (3. ed.). New York [u.a.]: Wiley. ISBN 978-0-471-29309-5.
+ Plomin, R., DeFries, J.C., McClearn, G.E., & Rutter, M. (1997). Behavioral genetics (3rd Ed.). New York: Freeman.
+ Damasio H; Grabowski T; Frank R.; Galaburda AM; Damasio AR (1994). "The return of Phineas Gage: clues about the brain from the skull of a famous patient". Science. 264 (5162): 1102–1105. doi:10.1126/science.8178168. PMID 8178168.
+ Macmillan, M. (2000). "Chs. 6,13,14". An Odd Kind of Fame: Stories of Phineas Gage. MIT Press. ISBN 978-0-262-13363-0.
+ Macmillan, M. (2008). "Phineas Gage – Unravelling the myth". The Psychologist. 21 (9): 828–831.

@@ -1,0 +1,145 @@
+Catalysis (/k??t?l?s?s/) is the process of increasing the rate of a chemical reaction by adding a substance known as a catalyst[1] (/?k?t?l?st/), which is not consumed in the catalyzed reaction and can continue to act repeatedly. Because of this, only very small amounts of catalyst are required to alter the reaction rate in principle.[2]
+
+In general, chemical reactions occur faster in the presence of a catalyst because the catalyst provides an alternative reaction pathway with a lower activation energy than the non-catalyzed mechanism. In catalyzed mechanisms, the catalyst usually reacts to form a temporary intermediate, which then regenerates the original catalyst in a cyclic process. A substance which provides a mechanism with a higher activation energy does not decrease the rate because the reaction can still occur by the non-catalyzed route.[3] An added substance which does reduce the reaction rate is not considered a catalyst[1] but a reaction inhibitor (see below).
+
+Catalysts may be classified as either homogeneous or heterogeneous. A homogeneous catalyst is one whose molecules are dispersed in the same phase (usually gaseous or liquid) as the reactant's molecules. A heterogeneous catalyst is one whose molecules are not in the same phase as the reactant's, which are typically gases or liquids that are adsorbed onto the surface of the solid catalyst. Enzymes and other biocatalysts are often considered as a third category.
+
+Background
+The production of most industrially important chemicals involves catalysis. Similarly, most biochemically significant processes are catalysed. Research into catalysis is a major field in applied science and involves many areas of chemistry, notably organometallic chemistry and materials science. Catalysis is relevant to many aspects of environmental science, e.g. the catalytic converter in automobiles and the dynamics of the ozone hole. Catalytic reactions are preferred in environmentally friendly green chemistry due to the reduced amount of waste generated,[4] as opposed to stoichiometric reactions in which all reactants are consumed and more side products are formed. Many transition metals and transition metal complexes are used in catalysis as well. Catalysts called enzymes are important in biology.
+
+A catalyst works by providing an alternative reaction pathway to the reaction product. The rate of the reaction is increased as this alternative route has a lower activation energy than the reaction route not mediated by the catalyst. The disproportionation of hydrogen peroxide creates water and oxygen, as shown below.
+
+2 H2O2 > 2 H2O + O2
+This reaction is preferable in the sense that the reaction products are more stable than the starting material, though the uncatalysed reaction is slow. In fact, the decomposition of hydrogen peroxide is so slow that hydrogen peroxide solutions are commercially available. This reaction is strongly affected by catalysts such as manganese dioxide, or the enzyme peroxidase in organisms. Upon the addition of a small amount of manganese dioxide, the hydrogen peroxide reacts rapidly. This effect is readily seen by the effervescence of oxygen.[5] The manganese dioxide is not consumed in the reaction, and thus may be recovered unchanged, and re-used indefinitely. Accordingly, manganese dioxide catalyses this reaction.[6]
+
+General principles
+Units
+Catalytic activity is usually denoted by the symbol z [7] and measured in mol/s, a unit which was called katal and defined the SI unit for catalytic activity since 1999. Catalytic activity is not a kind of reaction rate, but a property of the catalyst under certain conditions, in relation to a specific chemical reaction. Catalytic activity of one katal (Symbol 1 kat = 1 mol/s) of a catalyst means one mole of that catalyst (substance, in Mol) will catalyse 1 mole of the reactant to product in one second. A catalyst may and usually will have different catalytic activity for distinct reactions. See katal for an example.
+
+There are further derived SI units related to catalytic activity, see the above reference for details.
+
+Typical mechanism
+Main article: catalytic cycle
+Catalysts generally react with one or more reactants to form intermediates that subsequently give the final reaction product, in the process regenerating the catalyst. The following is a typical reaction scheme, where C represents the catalyst, X and Y are reactants, and Z is the product of the reaction of X and Y:
+
+X + C > XC
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1)
+
+Y + XC > XYC
+
+ 
+
+ 
+
+ 
+
+ 
+
+(2)
+
+XYC > CZ
+
+ 
+
+ 
+
+ 
+
+ 
+
+(3)
+
+CZ > C + Z
+
+ 
+
+ 
+
+ 
+
+ 
+
+(4)
+
+Although the catalyst is consumed by reaction 1, it is subsequently produced by reaction 4, so it does not occur in the overall reaction equation:
+
+X + Y > Z
+As a catalyst is regenerated in a reaction, often only small amounts are needed to increase the rate of the reaction. In practice, however, catalysts are sometimes consumed in secondary processes.
+
+The catalyst does usually appear in the rate equation. For example, if the rate-determining step in the above reaction scheme is the first step 
+X + C > XC, the catalyzed reaction will be second order with rate equation v = kcat[X] [C], which is proportional to the catalyst concentration [C]. However [C] remains constant during the reaction so that the catalyzed reaction is pseudo-first order: v = kobs[X], where kobs = kcat[C].
+
+As an example of a detailed mechanism at the microscopic level, in 2008 Danish researchers first revealed the sequence of events when oxygen and hydrogen combine on the surface of titanium dioxide (TiO2, or titania) to produce water. With a time-lapse series of scanning tunneling microscopy images, they determined the molecules undergo adsorption, dissociation and diffusion before reacting. The intermediate reaction states were: HO2, H2O2, then H3O2 and the final reaction product (water molecule dimers), after which the water molecule desorbs from the catalyst surface.[8][9]
+
+Reaction energetics
+
+Generic potential energy diagram showing the effect of a catalyst in a hypothetical exothermic chemical reaction X + Y to give Z. The presence of the catalyst opens a different reaction pathway (shown in red) with a lower activation energy. The final result and the overall thermodynamics are the same.
+Catalysts work by providing an (alternative) mechanism involving a different transition state and lower activation energy. Consequently, more molecular collisions have the energy needed to reach the transition state. Hence, catalysts can enable reactions that would otherwise be blocked or slowed by a kinetic barrier. The catalyst may increase reaction rate or selectivity, or enable the reaction at lower temperatures. This effect can be illustrated with an energy profile diagram.
+
+Photocatalysts
+Photocatalysis is the phenomenon where the catalyst can receive light (such as visible light), be promoted to an excited state, and then undergo intersystem crossing with the starting material, returning to ground state without being consumed. The excited state of the starting material will then undergo reactions it ordinarily could not if directly illuminated. For example, singlet oxygen is usually produced by photocatalysis. Photocatalysts are also the main ingredient in dye-sensitized solar cells.
+
+Enzymes and biocatalysts
+Main article: enzyme catalysis
+In biology, enzymes are protein-based catalysts in metabolism and catabolism. Most biocatalysts are enzymes, but other non-protein-based classes of biomolecules also exhibit catalytic properties including ribozymes, and synthetic deoxyribozymes.[14]
+
+Biocatalysts can be thought of as intermediate between homogeneous and heterogeneous catalysts, although strictly speaking soluble enzymes are homogeneous catalysts and membrane-bound enzymes are heterogeneous. Several factors affect the activity of enzymes (and other catalysts) including temperature, pH, concentration of enzyme, substrate, and products. A particularly important reagent in enzymatic reactions is water, which is the product of many bond-forming reactions and a reactant in many bond-breaking processes.
+
+In biocatalysis, enzymes are employed to prepare many commodity chemicals including high-fructose corn syrup and acrylamide.
+
+Some monoclonal antibodies whose binding target is a stable molecule which resembles the transition state of a chemical reaction can function as weak catalysts for that chemical reaction by lowering its activation energy.[15] Such catalytic antibodies are sometimes called "abzymes".
+
+Nanocatalysts
+Main article: Nanomaterial-based catalyst
+Nanocatalysts are nanomaterials with catalytic activities. They have been extensively explored for wide range of applications. Among them, the nanocatalysts with enzyme mimicking activities are collectively called as nanozymes.[16]
+
+Tandem catalysis
+In tandem catalysis two or more different catalysts are coupled in a one-pot reaction.
+
+Autocatalysis
+Main article: Autocatalysis
+In autocatalysis, the catalyst is a product of the overall reaction, in contrast to all other types of catalysis considered in this article. The simplest example of autocatalysis is a reaction of type A + B > 2 B, in one or in several steps. The overall reaction is just A > B, so that B is a product. But since B is also a reactant, it may be present in the rate equation and affect the reaction rate. As the reaction proceeds, the concentration of B increases and can accelerate the reaction as a catalyst. In effect, the reaction accelerates itself or is autocatalyzed.
+
+A real example is the hydrolysis of an ester such as aspirin to a carboxylic acid and an alcohol. In the absence of added acid catalysts, the carboxylic acid product catalyzes the hydrolysis.
+
+Significance
+
+Left: Partially caramelised cube sugar, Right: burning cube sugar with ash as catalyst
+File:TiCrPt micropump3.webm
+A Ti-Cr-Pt tube (~40 ?m long) releases oxygen bubbles when immersed in hydrogen peroxide (via catalytic decomposition), forming a micropump.[17]
+Estimates are that 90% of all commercially produced chemical products involve catalysts at some stage in the process of their manufacture.[18] In 2005, catalytic processes generated about $900 billion in products worldwide.[19] Catalysis is so pervasive that subareas are not readily classified. Some areas of particular concentration are surveyed below.
+
+Energy processing
+Petroleum refining makes intensive use of catalysis for alkylation, catalytic cracking (breaking long-chain hydrocarbons into smaller pieces), naphtha reforming and steam reforming (conversion of hydrocarbons into synthesis gas). Even the exhaust from the burning of fossil fuels is treated via catalysis: Catalytic converters, typically composed of platinum and rhodium, break down some of the more harmful byproducts of automobile exhaust.
+
+2 CO + 2 NO > 2 CO2 + N2
+With regard to synthetic fuels, an old but still important process is the Fischer-Tropsch synthesis of hydrocarbons from synthesis gas, which itself is processed via water-gas shift reactions, catalysed by iron. Biodiesel and related biofuels require processing via both inorganic and biocatalysts.
+
+Fuel cells rely on catalysts for both the anodic and cathodic reactions.
+
+Catalytic heaters generate flameless heat from a supply of combustible fuel.
+
+Bulk chemicals
+Some of the largest-scale chemicals are produced via catalytic oxidation, often using oxygen. Examples include nitric acid (from ammonia), sulfuric acid (from sulfur dioxide to sulfur trioxide by the contact process), terephthalic acid from p-xylene, and acrylonitrile from propane and ammonia.
+
+Many other chemical products are generated by large-scale reduction, often via hydrogenation. The largest-scale example is ammonia, which is prepared via the Haber process from nitrogen. Methanol is prepared from carbon monoxide.
+
+Bulk polymers derived from ethylene and propylene are often prepared via Ziegler-Natta catalysis. Polyesters, polyamides, and isocyanates are derived via acid-base catalysis.
+
+Most carbonylation processes require metal catalysts, examples include the Monsanto acetic acid process and hydroformylation.
+
+Fine chemicals
+Many fine chemicals are prepared via catalysis; methods include those of heavy industry as well as more specialized processes that would be prohibitively expensive on a large scale. Examples include the Heck reaction, and Friedel–Crafts reactions.
+
+Because most bioactive compounds are chiral, many pharmaceuticals are produced by enantioselective catalysis (catalytic asymmetric synthesis).
+
+Food processing

@@ -1,0 +1,132 @@
+In psychology, temperament broadly refers to consistent individual differences in behavior that are biologically based and are relatively independent of learning, system of values and attitudes. Some researchers point to association of temperament with formal dynamical features of behavior, such as energetic aspects, plasticity, sensitivity to specific reinforcers and emotionality.[1] Temperament traits (such as Neuroticism, Sociability, Impulsivity, etc.) remain its distinct patterns in behavior throughout adulthood but they are most noticeable and most studied in children. Babies are typically described by temperament, but longitudinal research in the 1920s began to establish temperament as something which is stable across the lifespan.[2]
+
+Although a broad definition of temperament is agreed upon, many classification schemes for temperament have been developed, and there is no consensus.[3][4]
+
+Historically, the concept of temperament (originally "temperamentums" in Latin means "mixtures") was a part of the theory of the four humors, with their corresponding four temperaments.
+
+This historical concept was explored by philosophers, psychologists, psychiatrists and psycho-physiologists from very early times of psychological science, with theories proposed by Immanuel Kant, Hermann Lotze, Ivan Pavlov, Carl Jung, Gerardus Heymans among others.
+
+More recently, scientists seeking evidence of a biological basis of personality have further examined the relationship between temperament and neurotransmitter systems[5][4][6][7] and character (defined in this context as developmental aspects of personality). However, biological correlations have proven hard to confirm.[8]
+
+
+Contents
+1	History and overview
+2	Main models
+2.1	Rusalov-Trofimova neurophysiological model of temperament
+2.1.1	Endurance-related scales
+2.1.2	Scales related to speed of integration of behavior
+2.1.3	Scales related to type of orientation of behavior
+2.1.4	Emotionality scales
+2.2	Kagan's research
+2.3	Thomas and Chess's nine temperament characteristics
+2.4	Mary K. Rothbart’s three dimensions of temperament
+2.4.1	Surgency/extraversion
+2.4.2	Negative affect
+2.4.3	Effortful control
+3	Temperament vs. psychiatric disorders
+4	Family life
+4.1	Influences
+4.2	Understanding for improvement
+5	See also
+6	References
+7	Additional References
+8	External links
+History and overview
+Temperament is determined through specific behavioral profiles, usually focusing on those that are both easily measurable and testable early in childhood. Commonly tested factors include traits related to energetic capacities (named as "Activity", "Endurance", "Extraversion"), traits related to emotionality (such as irritability, frequency of smiling), and approach or avoidance of unfamiliar events.[8][4] There is generally a low correlation between descriptions by teachers and behavioral observations by scientists of features used in determining temperament.[9] Temperament is hypothesized to be associated with biological factors, but these have proven to be complex and diverse.[8][4]
+
+Historically, in the second century A.D., the physician Galen described four temperaments (melancholic, phlegmatic, sanguine and choleric) based upon the four humours or bodily fluids. These became known as the four classical temperaments. In more recent history, Rudolf Steiner had emphasized the importance of the four classical temperaments in elementary education, the time when he believed the influence of temperament on the personality to be at its strongest.[10][11] Neither Galen nor Steiner are generally applied to the contemporary study of temperament in the approaches of modern medicine or contemporary psychology.
+
+Main models
+Rusalov-Trofimova neurophysiological model of temperament
+This model is based on the longest tradition of neurophysiological experiments started within the investigations of types and properties of nervous systems by Ivan Pavlov's school. This experimental tradition started on studies with animals in 1910-20s but expanded its methodology to humans since 1930s and especially since 1960s, including EEG, caffeine tests, evoked potentials, behavioral tasks and other psychophysiological methods.[12]
+
+The latest version of this model is based on the "Activity-specific approach in temperament research, on Alexander Luria's research in clinical neurophysiology and on the neurochemical model Functional Ensemble of Temperament.[4][6][7] At the present time the model is associated with the Structure of Temperament Questionnaire and has 12 scales: [1][13][14]
+
+Endurance-related scales
+Motor-physical Endurance: the ability of an individual to sustain prolonged physical activity using well-defined behavioral elements
+Social-verbal Endurance (sociability): the ability of an individual to sustain prolonged social-verbal activities using well-defined behavioral elements.
+Mental Endurance, or Attention: the ability to stay focused on selected features of objects with suppression of behavioral reactivity to other features.
+Scales related to speed of integration of behavior
+Motor-physical Tempo: speed of integration of an action in physical manipulations with objects with well-defined scripts of actions
+Plasticity: the ability to adapt quickly to changes in situations, to change the program of action, and to shift between different tasks
+Social-verbal Tempo: the preferred speed of speech and ability to understand fast speech on well-known topics, reading and sorting of known verbal material
+Scales related to type of orientation of behavior
+Sensation Seeking (SS): behavioral orientation to well-defined and existing sensational objects and events, underestimation of outcomes of risky behaviour.
+Empathy: behavioral orientation to the emotional states/needs of others (ranging from empathic deafness in autism and schizophrenia disorders to social dependency).
+Sensitivity to Probabilities: the drive to gather information about uniqueness, frequency and values of objects/events, to differentiate their specific features, to project these features in future actions.
+Emotionality scales
+Satisfaction (Self-Confidence): A disposition to be satisfied with current state of events, a sense of security, confidence in the future. In spite of the optimism about outcomes of his or her activities, the respondent might be negligent in details.
+Impulsivity: Initiation of actions based on immediate emotional reactivity rather than by planning or rational reasoning.
+Neuroticism: A tendency to avoid novelty, unpredictable situations and uncertainty. Preference of well-known settings and people over unknown ones and a need for approval and feedback from people around.
+Kagan's research
+Jerome Kagan and his colleagues have concentrated empirical research on a temperamental category termed "reactivity." Four-month-old infants who became "motorically aroused and distressed" to presentations of novel stimuli were termed highly reactive. Those who remained "motorically relaxed and did not cry or fret to the same set of unfamiliar events" were termed low reactive.[15] These high and low reactive infants were tested again at 14 and 21 months "in a variety of unfamiliar laboratory situations." Highly reactive infants were predominantly characterized by a profile of high fear to unfamiliar events, which Kagan termed inhibited. Contrastingly, low reactive children were minimally fearful to novel situations, and were characterized by an uninhibited profile (Kagan). However, when observed again at age 4.5, only a modest proportion of children maintained their expected profile due to mediating factors such as intervening family experiences. Those who remained highly inhibited or uninhibited after age 4.5 were at higher risk for developing anxiety and conduct disorders, respectively.[8]
+
+Kagan also used two additional classifications, one for infants who were inactive but cried frequently (distressed) and one for those who showed vigorous activity but little crying (aroused). Followed to age 14–17 years, these groups of children showed differing outcomes, including some differences in central nervous system activity. Teenagers who had been classed as high reactives when they were babies were more likely to be "subdued in unfamiliar situations, to report a dour mood and anxiety over the future, [and] to be more religious."[16]
+
+Thomas and Chess's nine temperament characteristics
+Alexander Thomas, Stella Chess, Herbert G. Birch, Margaret Hertzig and Sam Korn began the classic New York Longitudinal study in the early 1950s regarding infant temperament (Thomas, Chess & Birch, 1968). The study focused on how temperamental qualities influence adjustment throughout life. Chess, Thomas et al. rated young infants on nine temperament characteristics, each of which, by itself, or with connection to another, affects how well a child fits in at school, with their friends, and at home. Behaviors for each one of these traits are on a continuum. If a child leans towards the high or low end of the scale, it could be a cause for concern. The specific behaviors are: activity level, regularity of sleeping and eating patterns, initial reaction, adaptability, intensity of emotion, mood, distractibility, persistence and attention span, and sensory sensitivity. Redundancies between the categories have been found and a reduced list is normally used by psychologists today.[17]
+
+Research by Thomas and Chess used the following nine temperament traits in children[18][19][20][21][22] based on a classification scheme developed by Dr. Herbert Birch:[23] Thomas, Chess, Birch, Hertzig and Korn found that many babies could be categorized into one of three groups: easy, difficult, and slow-to-warm-up (Thomas & Chess 1977).[18] Not all children can be placed in one of these groups. Approximately 65% of children fit one of the patterns. Of the 65%, 40% fit the easy pattern, 10% fell into the difficult pattern, and 15% were slow to warm up. Each category has its own strength and weakness and one is not superior to another.[24]
+
+Thomas, Chess, Birch, Hertzig and Korn showed that easy babies readily adapt to new experiences, generally display positive moods and emotions and also have normal eating and sleeping patterns. Difficult babies tend to be very emotional, irritable and fussy, and cry a lot. They also tend to have irregular eating and sleeping patterns. Slow-to-warm-up babies have a low activity level, and tend to withdraw from new situations and people. They are slow to adapt to new experiences, but accept them after repeated exposure.
+
+Thomas, Chess, Birch, Hertzig and Korn found that these broad patterns of temperamental qualities are remarkably stable through childhood. These traits are also found in children across all cultures.
+
+Thomas and Chess also studied temperament and environment. One sample consisted of white middle-class families with high educational status and the other was of Puerto Rican working-class families. They found several differences. Among those were:[18]
+
+- Parents of middle class children were more likely to report behavior problems before the age of nine and the children had sleep problems. This may be because children start preschool between the ages of three and four. Puerto Rican children under the age of five showed rare signs of sleep problems, however, sleep problems became more common at the age of six. - Middle class parents also placed great stress on the child's early development, believing that problems in early ages were indicative of later problems in psychological development, whereas Puerto Rican parents felt their children would outgrow any problems. - At the age of nine, the report of new problems dropped for middle class children but they rose in Puerto Rican children, possibly due to the demands of school.
+
+Observed traits:
+
+Activity: refers to the child's physical energy. Is the child constantly moving, or does the child have a relaxing approach? A high-energy child may have difficulty sitting still in class, whereas a child with low energy can tolerate a very structured environment. The former may use gross motor skills like running and jumping more frequently. Conversely, a child with a lower activity level may rely more on fine motor skills, such as drawing and putting puzzles together. This trait can also refer to mental activity, such as deep thinking or reading—activities which become more significant as the person matures.
+Regularity: also known as rhythmicity, refers to the level of predictability in a child's biological functions, such as waking, becoming tired, hunger, and bowel movements. Does the child have a routine in eating and sleeping habits, or are these events more random? For example, a child with a high regularity rating may want to eat at 2 p.m. every day, whereas a child lower on the regularity scale may eat at sporadic times throughout the day.
+Initial reaction: also known as approach or withdrawal. This refers to how the child responds (whether positively or negatively) to new people or environments. Does the child approach people or things in the environment without hesitation, or does the child shy away? A bold child tends to approach things quickly, as if without thinking, whereas a cautious child typically prefers to watch for a while before engaging in new experiences.
+Adaptability: refers to how long it takes the child to adjust to change over time (as opposed to an initial reaction). Does the child adjust to the changes in their environment easily, or is the child resistant? A child who adjusts easily may be quick to settle into a new routine, whereas a resistant child may take a long time to adjust to the situation.
+Intensity: refers to the energy level of a positive or negative response. Does the child react intensely to a situation, or does the child respond in a calm and quiet manner? A more intense child may jump up and down screaming with excitement, whereas a mild-mannered child may smile or show no emotion.
+Mood: refers to the child's general tendency towards a happy or unhappy demeanor. All children have a variety of emotions and reactions, such as cheerful and stormy, happy and unhappy. Yet each child biologically tends to have a generally positive or negative outlook. A baby who frequently smiles and coos could be considered a cheerful baby, whereas a baby who frequently cries or fusses might be considered a stormy baby.
+Distractibility: refers to the child's tendency to be sidetracked by other things going on around them. Does the child get easily distracted by what is happening in the environment, or can the child concentrate despite the interruptions? An easily distracted child is engaged by external events and has difficulty returning to the task at hand, whereas a rarely distracted child stays focused and completes the task at hand.
+Persistence and attention span: refer to the child's length of time on a task and ability to stay with the task through frustrations—whether the child stays with an activity for a long period of time or loses interest quickly.
+Sensitivity: refers to how easily a child is disturbed by changes in the environment. This is also called sensory threshold or threshold of responsiveness. Is the child bothered by external stimuli like noises, textures, or lights, or does the child seem to ignore them? A sensitive child may lose focus when a door slams, whereas a child less sensitive to external noises will be able to maintain focus.
+Mary K. Rothbart’s three dimensions of temperament
+Mary K. Rothbart views temperament as the individual personality differences in infants and young children that are present prior to the development of higher cognitive and social aspects of personality.[25] Rothbart further defines temperament as individual differences in reactivity and self-regulation that manifest in the domains of emotion, activity and attention. Moving away from classifying infants into categories, Mary Rothbart identified three underlying dimensions of temperament.[26] Using factor analysis on data from 3 -12 month old children, three broad factors emerged and were labelled surgency/extraversion, negative affect, and effortful control.[25]
+
+Surgency/extraversion
+Surgency/extraversion includes positive anticipation, impulsivity, increased levels of activity and a desire for sensation seeking.[27] This factor reflects the degree to which a child is generally happy, active, and enjoys vocalizing and seeking stimulation.[26] Increased levels of smiling and laughter are observed in babies high in surgency/extraversion.[25] 10- to 11-year-olds with higher levels of surgency/extraversion are more likely to develop externalizing problems like acting out; however, they are less likely to develop internalizing problems such as shyness and low self-esteem.[28]
+
+Negative affect
+Negative affect includes fear, frustration, sadness, discomfort,[27] and anger.[25] This factor reflects the degree to which a child is shy and not easily calmed.[26] Anger and frustration is seen as early as 2 to 3 months of age. Anger and frustration, together, predict externalizing and internalizing difficulties. Anger, alone, is later related to externalizing problems, while fear is associated with internalizing difficulties. Fear as evidenced by behavioural inhibition is seen as early as 7–10 months of age, and later predicts children's fearfulness and lower levels of aggression.[29]
+
+Effortful control
+Effortful control includes the focusing and shifting of attention, inhibitory control, perceptual sensitivity, and a low threshold for pleasure.[27] This factor reflects the degree to which a child can focus attention, is not easily distracted,[26] can restrain a dominant response in order to execute a non-dominant response, and employ planning. When high in effortful control, six- to seven-year-olds tend to be more empathetic and lower in aggressiveness.[27] Higher levels of effortful control at age seven also predict lower externalizing problems at age 11 years.[30] Children high on negative affect show decreased internalizing and externalizing problems when they are also high on effortful control.[29] Rothbart suggests that effortful control is dependent on the development of executive attention skills in the early years. In turn, executive attention skills allows greater self-control over reactive tendencies. Effortful control shows stability from infancy into the school years[29] and also predicts conscience.[31]
+
+Solomon Diamond described temperaments based upon characteristics found in the animal world: fearfulness, aggressiveness, affiliativeness, and impulsiveness. His work has been carried forward by Arnold Buss and Robert Plomin, who developed two measures of temperament: The Colorado Child Temperament Inventory, which includes aspects of Thomas and Chess's schema, and the EAS Survey for Children.[17]
+
+H. Hill Goldsmith and Joseph Campos used emotional characteristics to define temperament, originally analyzing five emotional qualities: motor activity, anger, fearfulness, pleasure/joy, and interest/persistence, but later expanding to include other emotions. They developed several measures of temperament: Lab-TAB and TBAQ.[17]
+
+Other temperament systems include those based upon theories of adult temperament (e.g. Gray and Martin's Temperament Assessment Battery for Children), or adult personality (e.g.the Big Five personality traits).
+
+Temperament vs. psychiatric disorders
+Several psychiatrists and differential psychologists have suggested that temperament and mental illness represent varying degrees along the same continuum of neurotransmitter imbalances in neurophysiological systems of behavioural regulation.[32][33][34]
+
+In fact, the original four types of temperament (choleric, melancholic, phlegmatic and sanguine) suggested by Hippocrates and Galen resemble mild forms of types of psychiatric disorders described in modern classifications. Moreover, Hippocrates-Galen hypothesis of chemical imbalances as factors of consistent individual differences has also been validated by research in neurochemistry and psychopharmacology, though modern studies attribute this to different compounds. Many studies have examined the relationships between temperament traits (such as impulsivity, sensation seeking, neuroticism, endurance, plasticity, sociability or extraversion) and various neurotransmitter and hormonal systems, (i.e. the very same systems implicated in mental disorders)
+
+Even though temperament and psychiatric disorders can be presented as, correspondingly, weak and strong imbalances within the same regulatory systems, it is incorrect to say that temperament is a weak degree of these disorders. Temperament might be a disposition to develop a mental disorder, but it should not be treated as a guaranteed marker for disorders.
+
+Family life
+Influences
+Most experts agree that temperament has a genetic and biological basis, although environmental factors and maturation modify the ways a child's personality is expressed.[35] The term “goodness of fit” refers to the match or mismatch between temperament and other personal characteristics and the specific features of the environment. Differences of temperament or behavior styles between individuals are important in family life. They affect the interactions among family members. While some children can adapt quickly and easily to family routines and get along with siblings, others who are more active or intense may have a difficult time adjusting. The interactions between these children and their parents or siblings are among a number of factors that can lead to stress and friction within the family.
+
+The temperament mix between parents and children also affects family life. For example, a slow-paced parent may be irritated by a highly active child; or if both parent and child are highly active and intense, conflict could result. This knowledge can help parents figure out how temperaments affect family relationships. What may appear to be a behavioral problem may actually be a mismatch between the parent's temperament and their child's. By taking a closer look at the nine traits that Thomas and Chess revealed from their study, parents can gain a better understanding of their child's temperament and their own. Parents may also notice that situational factors cause a child's temperament to seem problematic; for example, a child with low rhythmicity can cause difficulties for a family with a highly scheduled life, and a child with a high activity level may be difficult to cope with if the family lives in a crowded apartment upstairs from sensitive neighbors.
+
+Parents can encourage new behaviors in their children, and with enough support a slow-to-warm-up child can become less shy, or a difficult baby can become easier to handle. More recently infants and children with temperament issues have been called "spirited" to avoid negative connotations of "difficult" and "slow to warm up". Numerous books have been written advising parents how to raise their spirited youngsters.
+
+Understanding for improvement
+Understanding a child's temperament can help reframe how parents interpret children's behavior and the way parents think about the reasons for behaviors. By parents having access to this knowledge now helps them to guide their child in ways that respect the child's individual differences. By understanding children's temperaments and our own helps adults to work with them rather than try to change them. It is an opportunity to anticipate and understand a child's reaction. It is also important to know that temperament does not excuse a child's unacceptable behavior, but it does provide direction to how parents can respond to it. Making small and reasonable accommodations to routines can reduce tension. For example, a child who is slow-paced in the mornings may need an extra half-hour to get ready. Knowing who or what may affect the child's behavior can help to alleviate potential problems. Although children obtain their temperament behaviors innately, a large part that helps determine a child's ability to develop and act in certain ways is determined by the parents. When a parent takes the time to identify and more importantly respond to the temperaments they are faced with in a positive way it will help them guide their child in trying to figure out the world.
+
+Recognizing the child's temperament and helping them to understand how it impacts his/her life as well as others is important. It is just as important for parents to recognize their own temperaments. Recognizing each individual's temperament, will help to prevent and manage problems that may arise from the differences among family members.
+
+Temperament continues into adulthood, and later studies by Chess and Thomas have shown that these characteristics continue to influence behavior and adjustment throughout the life-span.
+
+In addition to the initial clinical studies, academic psychologists have developed an interest in the field and researchers such as Bates, Buss & Plomin, Kagan, Rusalov, Cloninger, Trofimova and Rothbart have generated large bodies of research in the areas of personality, neuroscience, and behavioral genetics.
+
+See also
